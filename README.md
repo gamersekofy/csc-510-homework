@@ -14,4 +14,4 @@ Homework for the San Francisco State University class CSC 510: Analysis of Algor
 | HW 3 | 40 | 
 | HW 4 | 40 | 
 | HW 5 | 40 | 
-| HW 6 | TBD|
+| HW 6 | 37 |
